@@ -13,8 +13,7 @@ https://luizdotpro.github.io/github_api_starterPack/dist/index.html
 ___
 
 ### Context 
-This task needed to be completed in order to to me to progress with 
-the Job Interview by Abracar. 
+This task needed to be completed in order to continue the Job Interview process by Abracar. 
 ___
 
 ### Installing
