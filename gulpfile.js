@@ -19,7 +19,7 @@ gulp.task('msg',()=>console.log('Gulp is running...'));
 gulp.task('jade', ()=>{
    gulp.src('src/jade/*.jade')
         .pipe(jade({
-           pretty: true  //Remove this flag to have a minified HTML file
+           pretty: false  //Remove this flag to have a minified HTML file
         }))
     .pipe(gulp.dest('dist'))
     .pipe(browserSync.stream());
